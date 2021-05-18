@@ -1,0 +1,32 @@
+.table-header {
+    margin: 0.63rem;
+    padding: 0.63rem;
+    position: relative;
+    display: block;
+    width: 100vw;
+}
+
+.btn-w {
+    width: 8.13rem;
+    border: none;
+    border-radius: 0.31rem;
+    background-color: #ffffff;
+    color: #757dec;
+    padding: 0.5rem;
+}
+
+.btn-b {
+    width: 8.13rem;
+    border: none;
+    border-radius: 0.31rem;
+    background-color: #5485ad;
+    color: #ffffff;
+    padding: 0.5rem;
+}
+
+.th-txt {
+    font-weight: 500;
+    font-size: 1.25rem;
+    color: #424c6b;
+    margin: 0.19rem 3.13rem 0.19rem 0.19rem;
+}

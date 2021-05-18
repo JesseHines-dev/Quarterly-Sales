@@ -1,0 +1,49 @@
+.inner-table {
+    background-color: #fff;
+    color: #496083;
+    border-radius: 0.31rem;
+    border-collapse: collapse;
+    width: 98vw;
+    /* padding: .75rem; */
+    margin: 0.31rem;
+    text-align: left;
+    table-layout: fixed;
+}
+
+th {
+    font-weight: 400;
+    padding: 0.75rem;
+    width: 8.13rem;
+    text-align: left;
+}
+
+td {
+    width: auto;
+}
+
+tr, td {
+    padding: 0.75rem;
+    font-size: 16px;
+    text-align: center;
+}
+
+tbody {
+    justify-content: center;
+}
+
+.inner-table tr:last-child {
+    width: 3.75rem;
+}
+
+td:nth-child(11){
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+

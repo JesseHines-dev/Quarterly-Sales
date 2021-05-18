@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* for third-party software not compatible with 'border-box' sizing */
+
+/* .selector-for-whatevs {
+  box-sizing: content-box;
+} */
+
+.App {
+  text-align: center;
+  background-color: #dbe0ff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+}
+
+
+
+

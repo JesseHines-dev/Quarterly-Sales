@@ -1,0 +1,77 @@
+.grid-table {
+    height: 6.25rem;
+    color: #5782c4;
+    /* border-collapse: separate; */
+    margin: 0rem 0.63rem 0.5rem;
+    width: 98vw;
+}
+
+.data-left {
+    height: 3.75rem;
+    border-spacing: 2.5em;
+    width: 3.75rem;
+    border: 1px solid;
+    text-align: left;
+    padding: 0.75rem;
+}
+
+.top-header {
+    text-align: center;
+}
+
+.td-brand {
+    background-color: #fff;
+    border-radius: 0.31rem 0rem 0rem 0.31rem;
+    text-align: left;
+    width: 8.13rem;
+}
+
+.td-bb {
+    background-color: #fff;
+    margin: 1.5px;
+    border-collapse: separate;
+}
+
+.td-hd {
+    background-color: #fff;
+    margin: 1.5px;
+    border-collapse: separate;
+}
+
+.td-lowes {
+    background-color: #fff;
+    margin: 1.5px;
+    /* border-collapse: separate; */
+}
+
+.td-gt {
+    background-color: #fff;
+    margin: 0.31rem;
+    border-radius: 0rem 0.31rem 0.31rem 0rem;
+    text-align: right;
+    width: 7.5rem
+}
+
+/* table.grid-table td {
+    height: 30px;
+    text-align: center;
+    background-color: #fff;
+    border-collapse: none;
+} */
+
+
+td {
+    width: auto;
+
+}
+
+/* table tr td.mapgan {
+    background-color: #ffffff;
+    border-collapse: none;
+} */
+
+.tr-months {
+    background-color: #fff;
+    border-collapse: separate;
+    margin: 0rem 0.63rem 0.5rem;
+}
