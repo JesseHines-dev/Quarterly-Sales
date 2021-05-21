@@ -10,17 +10,17 @@ function Tmain() {
                           <tbody>
                             <table className="inner-table">
                               <tr>
-                              <th scope="row"></th>
-                              <td>55</td>
-                              <td>55</td>
-                              <td>55</td>
-                              <td>55</td>
-                              <td>55</td>
-                              <td>55</td>
-                              <td>55</td>
-                              <td>55</td>
-                              <td>55</td>
-                              <td>55</td>
+                              <th scope="row">{dataDetail.brand}</th>
+                              <td>{dataDetail.best_buy_202101}</td>
+                              <td>{dataDetail.best_buy_202102}</td>
+                              <td>{dataDetail.best_buy_202103}</td>
+                              <td>{dataDetail.home_depot_202101}</td>
+                              <td>{dataDetail.home_depot_202102}</td>
+                              <td>{dataDetail.home_depot_202103}</td>
+                              <td>{dataDetail.lowes_202101}</td>
+                              <td>{dataDetail.lowes_202102}</td>
+                              <td>{dataDetail.lowes_202103}</td>
+                              <td>{dataDetail.total}</td>
                               </tr>
                             </table>
                           </tbody>
