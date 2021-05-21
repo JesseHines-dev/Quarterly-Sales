@@ -1,8 +1,10 @@
 .grid-table {
     height: 6.25rem;
     color: #5782c4;
-    /* border-collapse: separate; */
-    margin: 0rem 0.63rem 0.5rem;
+    /* update for collapse */
+    border-collapse: separate;
+    background-color: none;
+    margin: 0rem 0.63rem 0.25rem;
     width: 98vw;
 }
 
@@ -41,7 +43,7 @@
 .td-lowes {
     background-color: #fff;
     margin: 1.5px;
-    /* border-collapse: separate; */
+    border-collapse: separate;
 }
 
 .td-gt {
@@ -52,12 +54,12 @@
     width: 7.5rem
 }
 
-/* table.grid-table td {
+table.grid-table td {
     height: 30px;
     text-align: center;
     background-color: #fff;
-    border-collapse: none;
-} */
+    border-collapse: collapse;
+}
 
 
 td {
@@ -65,10 +67,10 @@ td {
 
 }
 
-/* table tr td.mapgan {
+table tr td.mapgan {
     background-color: #ffffff;
     border-collapse: none;
-} */
+}
 
 .tr-months {
     background-color: #fff;
